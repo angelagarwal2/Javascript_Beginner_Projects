@@ -56,5 +56,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 💡 Note
 
-This is one of my early frontend projects. I'm currently focusing on **DSA and full-stack web development** — stay tuned for more!
+This is one of my early frontend projects — stay tuned for more!
 
