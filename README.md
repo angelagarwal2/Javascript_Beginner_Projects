@@ -1,18 +1,14 @@
-# Calculator 🧮
+# JavaScript Beginner Projects 📚💻
 
-A clean and functional web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This project supports basic arithmetic operations and is styled with a minimal and modern interface.
-
-🔗 **Live Demo:** [angelagarwal2.github.io/calculator](https://angelagarwal2.github.io/calculator/)
+This repository contains a collection of beginner-level JavaScript projects built while learning the fundamentals of web development. Each project is focused on practicing core JavaScript concepts such as DOM manipulation, event handling, functions, and conditionals.
 
 ---
 
-## 🚀 Features
+## 🔧 Projects Included
 
-- Basic arithmetic: addition, subtraction, multiplication, division, modulus
-- Live expression evaluation
-- Clear display (`AC`) and delete last input (`DEL`) buttons
-- Responsive design for mobile and desktop
-- Error handling for invalid expressions
+|S.No. | Project Name        | Description                                  |
+|------|---------------------|----------------------------------------------|
+| 1.   | Calculator          | Basic calculator for arithmetic operations   |
 
 ---
 
@@ -20,41 +16,32 @@ A clean and functional web-based calculator built using **HTML**, **CSS**, and *
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (Vanilla JS only)
 
 ---
 
-## 📸 Screenshot
+## 📚 Learning Focus
 
-<img src="calculator.png" alt="Calculator Screenshot" width="400"/>
-
----
-
-## 📚 What I Learned
-
-This project helped me practice:
-
-- DOM manipulation using JavaScript
-- Event handling with buttons
-- Updating the UI dynamically
-- Safely handling calculations and input clearing
+- DOM manipulation
+- Event listeners
+- Functions and control flow
+- Building small, interactive UI features
+- Structuring beginner web projects
 
 ---
 
 ## 📁 Project Status
 
-✅ Completed  
-🌐 Live and hosted via **GitHub Pages**
+🧪 In Progress – new projects will be added as I continue learning.
 
 ---
 
-## 📝 License
+## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+All projects are open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Note
+## 🙌 Contributions
 
-This is one of my early frontend projects — stay tuned for more!
-
+This repo is for personal learning, but feel free to fork, use, or suggest improvements!
