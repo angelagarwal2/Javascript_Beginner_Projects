@@ -10,6 +10,7 @@ This repository contains a collection of beginner-level JavaScript projects buil
 |------|---------------------|----------------------------------------------|
 | 1.   | Calculator          | Basic calculator for arithmetic operations   |
 | 2.   | Number Guessing Game| A fun and interactive number guessing game   |
+| 3.   | Temperature Converter| Converts temperature in Celsius to Farenheit and vice-versa |
 
 ---
 
