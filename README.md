@@ -9,6 +9,7 @@ This repository contains a collection of beginner-level JavaScript projects buil
 |S.No. | Project Name        | Description                                  |
 |------|---------------------|----------------------------------------------|
 | 1.   | Calculator          | Basic calculator for arithmetic operations   |
+| 2.   | Number Guessing Game| A fun and interactive number guessing game   |
 
 ---
 
