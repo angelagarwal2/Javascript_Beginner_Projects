@@ -1,0 +1,22 @@
+body{
+    font-family: verdana;
+    text-align:center;
+    background-color: beige;
+}
+#myDiv{
+    display: block;
+    align-items: center;
+    padding: 300px 80px;
+}
+#mySubmit{
+    border-radius: 5px;
+    font-size: 1.0em;
+    border-width: 2px;
+    background-color: rgb(177, 144, 116);
+    cursor: pointer;
+    transition: background-color 0.25s;
+    color:rgba(0, 0, 0, 0.908);
+}
+#mySubmit:hover{
+    background-color: rgb(130, 97, 71);
+}
