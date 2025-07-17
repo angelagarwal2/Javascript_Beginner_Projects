@@ -12,6 +12,7 @@ This repository contains a collection of beginner-level JavaScript projects buil
 | 2.   | Number Guessing Game| A fun and interactive number guessing game   |
 | 3.   | Temperature Converter| Converts temperature in Celsius to Farenheit and vice-versa |
 | 4.   | Dice Roller         | A random dice roller                         |
+| 5.   | Random Password Generator | A Random Password Generator            |
 
 ---
 
