@@ -14,6 +14,7 @@ This repository contains a collection of beginner-level JavaScript projects buil
 | 4.   | Dice Roller         | A random dice roller                         |
 | 5.   | Random Password Generator | A Random Password Generator            |
 | 6.   | Digital Clock       | A fully Functional Digital Clock             |
+| 7.   | Stopwatch           | A fully functional Stopwatch                 |
 
 ---
 
