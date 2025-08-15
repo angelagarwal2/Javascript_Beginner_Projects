@@ -12,6 +12,12 @@ const projects = [
     codeLink: "https://github.com/angelagarwal2/Javascript_Beginner_Projects/tree/main/projects/Calculator"
   },
   {
+    title: "Rock Paper Scissors",
+    description: "A fun interactive game where you play Rock, Paper, Scissors against the computer with instant win/lose results.",
+    demoLink: "projects/rock-paper-scissors/index.html",
+    codeLink: "https://github.com/angelagarwal2/Javascript_Beginner_Projects/tree/main/projects/rock-paper-scissors"
+  },
+  {
     title: "Random Password Generator",
     description: "A customizable tool that generates secure random passwords using JavaScript, with options for length, symbols, numbers, and case.",
     demoLink: "projects/random-password-generator/index.html",
