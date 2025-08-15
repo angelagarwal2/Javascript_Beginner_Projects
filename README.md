@@ -15,6 +15,7 @@ This repository contains a collection of beginner-level JavaScript projects buil
 | 5.   | Random Password Generator | A Random Password Generator            |
 | 6.   | Digital Clock       | A fully Functional Digital Clock             |
 | 7.   | Stopwatch           | A fully functional Stopwatch                 |
+| 8.   | Rock Paper Scissors | A fun and interactive rock paper scissors game |
 
 ---
 
