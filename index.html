@@ -9,21 +9,67 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-  <header>
-    <h1>My Beginner-friendly Projects</h1>
-    <p>Beginner-friendly projects using JavaScript, HTML, and CSS</p>
-  </header>
+  <nav>
+    <div class="nav-container">
+      <div class="logo">
+        <div class="logo-icon">
+          <i class="fas fa-code"></i>
+        </div>
+        JS Projects
+      </div>
+      <div class="nav-links">
+        <a href="https://github.com/angelagarwal2?tab=repositories" target="_blank">Projects</a>
+        <a href="https://github.com/angelagarwal2/Javascript_Beginner_Projects" target="_blank">Repository</a>
+        <a href="mailto:angel.agarwal28feb@gmail.com">Contact</a>
+      </div>
+    </div>
+  </nav>
 
-  <main id="projects-container"></main>
+  <section class="hero">
+    <div class="hero-content">
+      <h1>JavaScript <span>Projects</span></h1>
+      <p>Beginner-friendly JavaScript projects exploring DOM manipulation, event handling, and interactive web development fundamentals</p>
+      <div class="stats-bar">
+        <div class="stat-item">
+          <span class="stat-number" id="project-total">8</span>
+          <span class="stat-label">Projects</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">∞</span>
+          <span class="stat-label">Learning</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
-  <footer>
-    <p>&copy; 2025 <strong>Angel Agarwal. </strong>All rights reserved.</p>
-    <div class="social-links">
+  <div class="controls">
+    <div class="filter-group">
+      <button class="filter-btn active" data-filter="all">All Projects</button>
+      <button class="filter-btn" data-filter="game">Games</button>
+      <button class="filter-btn" data-filter="utility">Utilities</button>
+    </div>
+    <div class="search-box">
+      <i class="fas fa-search"></i>
+      <input type="text" id="search" placeholder="Search projects..." />
+    </div>
+  </div>
+
+  <section class="projects-section">
+    <div class="section-header">
+      <h2 class="section-title">All Projects</h2>
+      <p class="project-count">Showing <span id="visible-count">8</span> of <span id="total-count">8</span></p>
+    </div>
+    <main id="projects-container"></main>
+  </section>
+
+   <footer>
+        <p>&copy; 2025 Angel Agarwal. All rights reserved.</p>
+        <div class="social-links">
             <a href="https://github.com/angelagarwal2"><i class="fa-brands fa-github"></i></a>
             <a href="mailto:angel.agarwal28feb@gmail.com"><i class="fa-solid fa-envelope"></i></a>
             <a href="https://www.linkedin.com/in/angel-agarwal-97794432a/"><i class="fa-brands fa-linkedin"></i></a>
         </div>
-  </footer>
+        </footer>
 
   <script src="script.js"></script>
 </body>
